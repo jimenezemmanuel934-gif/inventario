@@ -1,0 +1,53 @@
+DIAGNÓSTICO DEL AMBIENTE
+Taller práctico - Primera API REST con Spring Boot + GitHub
+
+1. VERSIONES ENCONTRADAS
+
+Java:
+openjdk version "21.0.7" 2025-04-15 LTS
+
+Javac:
+javac 21.0.7
+
+Git:
+git version 2.50.1.windows.1
+
+
+2. DIFERENCIA ENTRE JAVA Y JAVAC
+
+Java es el comando que permite ejecutar programas Java que ya han sido compilados.
+
+Javac es el compilador de Java. Se utiliza para convertir archivos fuente .java en archivos compilados .class.
+
+
+3. ¿QUÉ FUNCIÓN CUMPLE GIT?
+
+Git es un sistema de control de versiones que permite registrar y controlar los cambios realizados en un proyecto.
+
+
+4. ¿GIT Y GITHUB SON LO MISMO?
+
+No.
+
+Git es el sistema de control de versiones que se utiliza principalmente en el computador local.
+
+GitHub es una plataforma que permite almacenar repositorios Git de manera remota y facilita la colaboración entre desarrolladores.
+
+
+5. ¿QUÉ ES UN REPOSITORIO?
+
+Un repositorio es un espacio donde se almacena un proyecto y su historial de versiones. Puede estar ubicado localmente en el computador o de manera remota en GitHub.
+
+
+6. ¿QUÉ ES UNA API?
+
+Una API es una interfaz que permite que diferentes aplicaciones o sistemas se comuniquen entre sí siguiendo unas reglas determinadas.
+
+
+7. ¿QUÉ ES EL MÉTODO HTTP GET?
+
+GET es un método HTTP utilizado principalmente para solicitar o consultar información de un servidor.
+
+En este proyecto se utiliza, por ejemplo, para consultar los productos mediante:
+
+GET /productos
